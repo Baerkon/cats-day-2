@@ -1,0 +1,23 @@
+{
+  "name": "cats-day-2",
+  "version": "1.0.0",
+  "description": "api about cats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baerkon/cats-day-2.git"
+  },
+  "keywords": [
+    "Cats",
+    "Api"
+  ],
+  "author": "Baerkon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baerkon/cats-day-2/issues"
+  },
+  "homepage": "https://github.com/Baerkon/cats-day-2#readme"
+}
