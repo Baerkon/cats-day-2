@@ -23,3 +23,10 @@
 .hidden {
     display: none;
 }
+
+.card-text-black {
+    background-color: black;
+    color: #fff;
+    width: fit-content;
+    padding: 0 10px;
+}
